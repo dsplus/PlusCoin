@@ -1,7 +1,7 @@
 pragma solidity ^0.4.13;
 
 /**
-* @title PlusCoin
+* @title PlusCoin PRESALE Contract
 * @dev The main token contract
 */
 
