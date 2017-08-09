@@ -16,7 +16,7 @@ contract PlusCoin {
     string public constant symbol = "PCT";
     uint   public constant decimals = 18;
     uint256 public totalSupply;
-    uint256 public ownerPrice = PRESALE_PRICE * 5 * fpct_packet_size;
+    uint256 public ownerPrice = PRESALE_PRICE * 3 * fpct_packet_size;
     
     uint public constant fpct_packet_size = 3300;
     uint public constant PRESALE_PRICE = 40 * fpct_packet_size; // 40 FPCT per Ether
