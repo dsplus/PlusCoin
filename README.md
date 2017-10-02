@@ -1,3 +1,5 @@
+![Logo](https://pluscoin.io/images/dsp/pluscoin_alpha_cut.png)](https://pluscoin.io/images/dsp/pluscoin_alpha_cut.png)
+
 # PlusCoin - cryptocurrency for the people
 
 [![PlusCoin](https://pluscoin.io/images/dsp/pluscoin_alpha_cut.png)](https://pluscoin.io/images/dsp/pluscoin_alpha_cut.png)
