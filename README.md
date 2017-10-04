@@ -64,11 +64,12 @@ Support of these functions allows using PlusCoin as a common cryptocurrency base
 We are not going to be limited by standard ERC20 functionality; therefore we are actively developing additional smart contracts which will interact with the basic one. These contracts will provide operation of the DS Plus service in the blockchain-network. The publication of additional smart contracts won't affect the work of the basic one and WONT'T be followed by release of new "coins" instead of PlusCoin. Additional smart contracts will provide correct interaction of the DS Plus service functionality and the basic PlusCoin contract.
 
 DS Plus team sees a great prospects and opportunities, which are showed because of using blockchain-technologies in real world. Using of smart-contracts in business processes of companies, public and social spheres is irreversible. It’s about time. That’s why we constantly monitor for new developments in smart-contract sphere, learning the possibilities of applying it. Also we prepare our own contracts, which will provide:
- -making safe and clear deals in DS Plus partner-companies and also in our online Market place
--making safe and clear deals on P2P-platform in DS Plus app(deals with or without the mediator)
--introduction of definition of digital property, which changes the holder because of making a deal
--introduction of “cryptoscoring”(rating) for PlusCoin holders, base for making the decision, for example, of crediting one or another PlusCoin holder
--providing secure credit deals(including p2p crediting)
+ - making safe and clear deals in DS Plus partner-companies and also in our online Market place
+  - making safe and clear deals on P2P-platform in DS Plus app(deals with or without the mediator)
+  - introduction of definition of digital property, which changes the holder because of making a deal
+  - introduction of “cryptoscoring”(rating) for PlusCoin holders, base for making the decision, for example, of crediting one or another PlusCoin holder
+  - providing secure credit deals(including p2p crediting)
+
 At the moment we are testing contract for deals, containing cryptoscoring functions. Code of this contract will be published in current repository as soon as possible, after we finish the testing and external audit.
 Besides, we go beyond above-mentioned functions and constantly discuss and work on new ideas for implementation blockchain-technologies into real life. 
 
